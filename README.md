@@ -15,7 +15,7 @@ Crie esse script para automatizar o processo de atualização do sistema do kali
 - Remove pacotes que não são mais necessários `apt autoremove`
 
 
-#❗Como executar o script
+# ❗Como executar o script
 1. Clone o repositório ou baixe o script:
 `git clone https://github.com/seu-usuario/seu-repositorio.git`
 cd seu-repositorio
