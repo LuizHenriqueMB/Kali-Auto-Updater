@@ -20,7 +20,7 @@ Crie esse script para automatizar o processo de atualização do sistema do kali
 `git clone https://github.com/seu-usuario/seu-repositorio.git`
 cd seu-repositorio
 2. Dê permissão de execução:
-`chmod +x atualizar_kali.sh`
+`chmod +x upgrade.sh`
 3. Execute com sudo:
 `sudo ./upgrade.sh`
 
