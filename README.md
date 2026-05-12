@@ -1,12 +1,12 @@
 # 🐉 Kali Linux Auto-Updater
 
-Script em Bash para automatizar a atualização completa do sistema Kali Linux, com saída visual no terminal.
+Script em Bash para automatizar a atualização d sistema Kali Linux, com saída visual no terminal.
 
 <img src="./assets/Print.png" alt="Preview do script em execução" width="750" height="400">
 
 # 📋 Sobre o Projeto
 
-Crie esse script para automatizar o processo de atualização do sistema do kali linux que utilizo no meu dia a dia de forma sequencial em três etapas, e com auxílio da IA pude trazer um aspecto mais visual para o script. 
+Criei esse script para automatizar o processo de atualização do sistema do kali linux que utilizo no meu dia a dia de forma sequencial em três etapas, e com auxílio da IA pude trazer um aspecto mais visual para o script. 
 
 # ⚙️ O que o script faz
 
