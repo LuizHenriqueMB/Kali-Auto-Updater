@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # ==============================================================
 #  ATUALIZANDO O KALI LINUX
-#  Uso: ./atualizar_kali.sh
+#  Uso: ./upgrade.sh
 # ==============================================================
  
 set -euo pipefail  # Aborta em erro, variável não definida ou pipe quebrado
