@@ -26,6 +26,6 @@ cd seu-repositorio
 
 # 🔧 Requisitos
 
-Sistema operacional: Kali Linux (ou qualquer distro baseada em Debian)
-Shell: Bash
-Permissões: root / sudo
+- Sistema operacional: Kali Linux (ou qualquer distro baseada em Debian)
+- Shell: Bash
+- Permissões: root / sudo
